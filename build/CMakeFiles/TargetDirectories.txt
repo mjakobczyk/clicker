@@ -1,0 +1,3 @@
+D:/Repos/clicker/build/CMakeFiles/program.dir
+D:/Repos/clicker/build/CMakeFiles/ALL_BUILD.dir
+D:/Repos/clicker/build/CMakeFiles/ZERO_CHECK.dir
